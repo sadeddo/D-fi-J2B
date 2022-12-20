@@ -1,0 +1,16 @@
+.main{
+    margin: 20px;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    /*flex-direction: column;*/
+    justify-content: center;
+    align-items: center;
+}
+.formation
+{
+    display: flex;
+    flex-wrap:wrap ;
+    margin: 30px;
+    border: 2% black;
+}
